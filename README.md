@@ -111,12 +111,6 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 ```
 
-## 📝 Documentation
-
-Detailed project documentation is available in:
-- `Atliqo_Bank_Credit_Card_Launch_Documentation.pdf` - Complete methodology report
-- `Atliqo_Bank_Credit_Card_Launch_Documentation.md` - Markdown version
-
 ## 👤 Author
 
 **Yerri Thatha Choppa**
